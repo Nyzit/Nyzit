@@ -1,13 +1,13 @@
 # Hi 👋, I'm Nyzit owner and creator of Nook 
 ###### **`not a real company btw`**
 
-## About me (💀)
+## About me
   
-🔭 I'm currently working on Nook-Bar, a bar like MacOS
+🔭 I'm currently working on Nook-Bar, a menu bar like MacOS just for Windows
 
 🌱 I'm currently learning the essentials of Github, C++, Python etc.
 
-⚡ Fun fact **Im a complete noob💀**
+⚡ Fun fact: **Im a complete noob💀(for now)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,19 +16,17 @@
 <a href="https://youtube.com/UCaoU0-lAMrTyoKZ3NzXAcsA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCaoU0-lAMrTyoKZ3NzXAcsA" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a></p>
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nyzit&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="nyzit" /></p>
 
-## Note: Nook-bar is not public yet
+## Note: Nook-bar is not public YET
 
 ### **`🔎Let's go more in-depth🔍`**
-Why did i decide to create Nook?  maybe because i dont trust other people but whos knows?
+Why did I decide to create Nook? Maybe because I don't trust other people, but who knows?
 
-lets get back to the point. The goal of Nook was to take the ideas in my imagination and make them a reality for others to use starting with Nook-Bar.
-I looked at my desktop and tought: ,,Huh why dont i just do it "myself" " so i got to work and made the MacOS menu bar on windows i was first using c++ but because for the settings to have a more modern look i wanted to switch to C#, which didnt work pretty well.
-It used more resources and it was just wierd . After a sleep with toughts on how i can fix the bar i turned on my pc just to see that all my icons are GONE so i tried to troubleshoot it and after 2 hours i just ues a system restore point from 5 days ago after that i just switched back to C++ but as for now im planning on switching to Rust.
+The goal of Nook was to take the ideas in my imagination and make them a reality for others to use, starting with Nook-Bar.
 
-So after making a relative stable and working Nook-bar i decided to put it up on Github to share it with other people.
+I looked at my desktop and thought, "Why don't I just do it "myself" " I got to work and made the macOS menu bar on Windows. I was first using C++, but because I wanted the settings to have a more modern look, I wanted to switch to C#, which didn't work pretty well.
+It used more resources, and it was just weird. After a sleep with thoughts on how I can fix the bar, I turned on my PC just to see that all my icons are GONE, so I tried to troubleshoot it, and after 2 hours, I just used a system restore point from 5 days ago. After that, I just switched back to C++, but when i have a stable fully functional product, I'm planning on switching it to Rust, but that's not the point of this text. So after making a relatively stable and working Nook-bar, I decided to put it up on GitHub to share it with others, and I just thought, I'm so f**ing smart. So I went in, created a GitHub account, and uploaded that to a new repository, which, to even upload, took like 30 minutes of research and watching YouTube videos.
+
+That's the story of Nook and Nook-Bar, but I still want to create much more Nook stuff, so I'm hyped for the future, and I hope you are too. 🤩
