@@ -22,6 +22,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nyzit&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="nyzit" /></p>
 
+## Note: Nook-bar is not public yet
+
 ### **`🔎Let's go more in-depth🔍`**
 Why did i decide to create Nook?  maybe because i dont trust other people but whos knows?
 
