@@ -1,5 +1,4 @@
 # Hi 👋, I'm Nyzit owner and creator of Nook Cora
-###### **`not a real company btw`**
 
 ## About me
   
