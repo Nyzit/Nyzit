@@ -1,5 +1,7 @@
 # Hi 👋, I'm Nyzit owner and creator of Nook Cora
 
+### Organizaton link: 
+
 ## About me
   
 🔭 I'm currently working on Nook-Bar, a menu bar like MacOS just for Windows
