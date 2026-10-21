@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="nyzit-blackhole-ascii.gif"
+       alt="Animated monochrome ASCII black hole"
+       width="280">
+</div>
+
 # 💫 About Me:
 Im a self-tought Software devloper building small projects
 
