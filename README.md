@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="nyzit-blackhole-github.gif"
+  <img src="nyzit-blackhole-wide.gif" width = "1000"
        alt="Animated monochrome ASCII black hole"
        width="280">
 </div>
