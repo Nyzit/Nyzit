@@ -23,6 +23,5 @@ Im a self-tought Software devloper building small projects
 ![](https://github-profile-trophy.vercel.app/?username=Nyzit&theme=default&no-frame=false&no-bg=true&margin-w=4)
 None💀
 
----
-[![](https://komarev.com/ghpvc/?username=Nyzit&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
