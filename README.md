@@ -5,7 +5,7 @@
 </div>
 
 # 💫 About Me:
-Im a self-tought Software devloper building small projects
+Im a self-tought Software devloper building small projects that I either cuck code or don't finish
 
 
 ## 🌐 Socials:
